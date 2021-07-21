@@ -1,16 +1,20 @@
-### Hi there 👋
+Something about me
+===
+My name is Manuel, i'm from Colombia.
 
-<!--
-**heyyou12/heyyou12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Currently working for (https://github.com/heyyou12/heyyou12.git)
+* I am a Computer and Systems Engineer from the Universidad del Quindio.
+* I currently work as a Staff developer at Siesa
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have knowledge in:
+
+* Java
+* HTML, CSS Y JAVASCRIPT
+* ANGULAR 
+* NODE JS
+
+## Contac
+
+you can find me in linkedin.com/in/manuel-restrepo-rios-33690a206
